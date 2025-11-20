@@ -1,0 +1,5 @@
+name,path
+INPUT_rep1_subset,/projectnb/bf528/materials/project-3-chipseq/subsampled_files/INPUT_rep1.subset.fastq.gz
+INPUT_rep2_subset,/projectnb/bf528/materials/project-3-chipseq/subsampled_files/INPUT_rep2.subset.fastq.gz
+IP_rep1_subset,/projectnb/bf528/materials/project-3-chipseq/subsampled_files/IP_rep1.subset.fastq.gz
+IP_rep2_subset,/projectnb/bf528/materials/project-3-chipseq/subsampled_files/IP_rep2.subset.fastq.gz
